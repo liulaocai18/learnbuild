@@ -1,0 +1,14 @@
+from Manta Network
+
+Registration
+Link3 has built an event calendar for you. After adding to calendar, all of your upcoming Web3 events will show up there. Link3 will also send you an email calendar invitation if you link your email address.
+
+Event Information
+以零知识证明方式，预测世界杯冠军
+1/ 转发+评论，说出你支持的球队，但不要直接说球队的名字。举例“潘帕斯雄鹰夺冠”“我支持桑巴军团”“支持自行车王国”。
+2/ 世界杯决赛结束后，会在某个不定时刻，展开该条推特评论，向下数，在成功预测的小伙伴中，选择排在第1、3、5、7、9的伙伴，均分 100 U。
+
+零知识证明（ZK）是对计算的加密。该活动中，我们运用了ZK简易逻辑。参与的各位相当于证明者，提出证明（预测结果）。小编是验证者，验证各位的证明。
+由于大家没有直接说出球队名字，对于非球迷，或者对各个国家特点没那么了解的人来说，等同于加密了一般。
+该游戏中，大家实际可以通过“百度、谷歌”解密，但在实际的ZK运算中，解密需要全世界算计共同计算几年时间，才能做到。
+顺便，Link3链接仅作为奖励见证使用，并不会举办Twitter Space活动。
